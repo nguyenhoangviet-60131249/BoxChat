@@ -1,10 +1,9 @@
 # Django-Chat-App
-This project is a small demonstration of a chat app using django.The concept of the app is similar to twilio app, where the concept of rooms exists.Rooms are nothing but a group chat.The user first signs  up, creates a room and then joins it. Once the user joins a room, they can chat with other users in the room.To understand this,one should have good knowledge about `Django` and `Mysql` in depth.
+This project is a small demonstration of a chat app using django.The concept of the app is similar to twilio app, where the concept of rooms exists.Rooms are nothing but a group chat.The user first signs  up, creates a room and then joins it. Once the user joins a room, they can chat with other users in the room.To understand this,one should have good knowledge about `Django`
 
 ## Prerequisites
 
 - [Django](https://www.djangoproject.com/)
-- [MySQL](https://www.mysql.com/)
 
 ## Installation
 - Create a virtual environment
